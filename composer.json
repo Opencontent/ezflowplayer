@@ -14,7 +14,7 @@
         "ezsystems/ezpublish-legacy-installer": "*"
     },
     "extra": {
-        "ezpublish-legacy-extension-name": "ezflip"
+        "ezpublish-legacy-extension-name": "ezflowplayer"
     }
 }
 
