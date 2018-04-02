@@ -35,9 +35,9 @@
 
 class ezflowMedia extends eZPersistentObject
 {
-    function ezflowMedia( $row )
+    function __construct( $row )
     {
-        $this->eZPersistentObject( $row );
+        parent::__construct( $row );
     }
 
     static function definition()
